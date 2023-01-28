@@ -18,7 +18,7 @@ Create a HTML file of forms.
 ### Step 6:
 Publish the website in the given URL.
 ## PROGRAM :
-'''
+```python
 math.html
 
 <html>
@@ -118,7 +118,7 @@ urlpatterns=[
     path('',views.rectarea,name="areaofrectangleroot")
 ]
 
-'''
+```
 
 ## OUTPUT:
 ![OUTPUT](./outEX5.png)
